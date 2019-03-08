@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/customer-list": [
+                "customerList/customerList.js"
+            ],
+            "c/customer-tile": [
+                "customerTile/customerTile.js"
+            ],
+            "c/inline-message": [
+                "inlineMessage/inlineMessage.js"
+            ],
+            "c/pubsub": [
+                "pubsub/pubsub.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ]
+}

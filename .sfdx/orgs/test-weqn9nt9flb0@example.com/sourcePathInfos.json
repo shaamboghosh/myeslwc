@@ -32,14 +32,14 @@
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425309,
             "changeTime": 1551935425309,
-            "contentHash": "8cd94b751703e326197ba35f6c524cc427b31196"
+            "contentHash": "8cd94b751703e326197ba35f6c524cc427b31196",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -63,13 +63,12 @@
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551927106839,
-            "changeTime": 1551927106839,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "modifiedTime": 1552002642306,
+            "changeTime": 1552002642306,
+            "contentHash": "0c3cecc235c9953cdc04eee5fdd28505505d0a4f",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -78,13 +77,12 @@
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1551927132825,
-            "changeTime": 1551927132825,
-            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "modifiedTime": 1552002697400,
+            "changeTime": 1552002697400,
+            "contentHash": "41424f2b0ded01904c34c1ef332e6e1ca27380f1",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "isWorkspace": true
         }
     ],
     [
@@ -675,53 +673,53 @@
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10783,
             "modifiedTime": 1551935425200,
             "changeTime": 1551935425200,
-            "contentHash": "66c2cef432bacce1b01105220c3d990001ca900e"
+            "contentHash": "66c2cef432bacce1b01105220c3d990001ca900e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 10787,
             "modifiedTime": 1551935425215,
             "changeTime": 1551935425215,
-            "contentHash": "52af6aa994fded5b0ffb11a7b11be418cdcb1ee4"
+            "contentHash": "52af6aa994fded5b0ffb11a7b11be418cdcb1ee4",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11123,
             "modifiedTime": 1551935425246,
             "changeTime": 1551935425246,
-            "contentHash": "a4ba866f918df09747dcd7840205873d17efecf0"
+            "contentHash": "a4ba866f918df09747dcd7840205873d17efecf0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 26902,
+            "modifiedTime": 1552003238771,
+            "changeTime": 1552003238771,
+            "contentHash": "0578a251565d5236f8ebd5797e07194feb904d18",
             "isMetadataFile": true,
-            "size": 25912,
-            "modifiedTime": 1551935425293,
-            "changeTime": 1551935425293,
-            "contentHash": "57f9cc7c619ff06206f28bbc82f584dce3baa295"
+            "state": "u"
         }
     ],
     [
@@ -766,14 +764,14 @@
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425090,
             "changeTime": 1551935425090,
-            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588"
+            "contentHash": "bf16ba11d9284d660bf9e104b0afe0bafd7e2588",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -896,27 +894,27 @@
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425137,
             "changeTime": 1551935425137,
-            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d"
+            "contentHash": "0ad7622f5de5a5f51acf6423052bf3a5ea0b934d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425137,
             "changeTime": 1551935425137,
-            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef"
+            "contentHash": "a1a3c3b675f3be961d8e3cf8e64bbfa73b7a4bef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -948,261 +946,456 @@
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\permissionsets\\EasySpacesObjects.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 8603,
             "modifiedTime": 1551935425293,
             "changeTime": 1551935425293,
-            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201"
+            "contentHash": "44fbab6b97c8bc93f65808a19df9bf877247a201",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 236,
             "modifiedTime": 1551935425090,
             "changeTime": 1551935425090,
-            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035"
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 395,
             "modifiedTime": 1551935425106,
             "changeTime": 1551935425106,
-            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 683,
             "modifiedTime": 1551935425106,
             "changeTime": 1551935425106,
-            "contentHash": "47bfa2bcbeebf45121b77c10a6bea8f48905c31a"
+            "contentHash": "47bfa2bcbeebf45121b77c10a6bea8f48905c31a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 679,
             "modifiedTime": 1551935425106,
             "changeTime": 1551935425106,
-            "contentHash": "f2a944fcad2cd3e353586371f169d8af4c0e19e1"
+            "contentHash": "f2a944fcad2cd3e353586371f169d8af4c0e19e1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 397,
             "modifiedTime": 1551935425106,
             "changeTime": 1551935425106,
-            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 673,
             "modifiedTime": 1551935425121,
             "changeTime": 1551935425121,
-            "contentHash": "63a30a903f13b8ed5a7403dbc7480c2d8d25abf1"
+            "contentHash": "63a30a903f13b8ed5a7403dbc7480c2d8d25abf1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 544,
             "modifiedTime": 1551935425121,
             "changeTime": 1551935425121,
-            "contentHash": "effc4ef7acd6284a8f4c219b1a135e7fc3adc260"
+            "contentHash": "effc4ef7acd6284a8f4c219b1a135e7fc3adc260",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2915,
             "modifiedTime": 1551935425137,
             "changeTime": 1551935425137,
-            "contentHash": "a3225660300801b8b42a65d85b69b7710e5ab2fe"
+            "contentHash": "a3225660300801b8b42a65d85b69b7710e5ab2fe",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Reservation__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 230,
             "modifiedTime": 1551935425153,
             "changeTime": 1551935425153,
-            "contentHash": "fdf148f0369d1f3126376341b70c96b44e2a0e95"
+            "contentHash": "fdf148f0369d1f3126376341b70c96b44e2a0e95",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1551935425153,
             "changeTime": 1551935425153,
-            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
             "isDirectory": false,
+            "size": 1856,
+            "modifiedTime": 1552005429651,
+            "changeTime": 1552005429651,
+            "contentHash": "b65a472ea13d475dfc29f3e7d7096ef4ee586ea5",
             "isMetadataFile": false,
-            "size": 1805,
-            "modifiedTime": 1551935425153,
-            "changeTime": 1551935425153,
-            "contentHash": "f1fc1869351106405a22725bddf99efc92e4520f"
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1551935425168,
             "changeTime": 1551935425168,
-            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1731,
             "modifiedTime": 1551935425168,
             "changeTime": 1551935425168,
-            "contentHash": "e0b01ee008d9d2178e7b4a27dcfbc524d523f48c"
+            "contentHash": "e0b01ee008d9d2178e7b4a27dcfbc524d523f48c",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 983,
             "modifiedTime": 1551935425309,
             "changeTime": 1551935425309,
-            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Fields.md-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1003,
             "modifiedTime": 1551935425325,
             "changeTime": 1551935425325,
-            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8"
+            "contentHash": "2c88a0c59843bcf5dcef96726ce22e1c5bb202e8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425090,
             "changeTime": 1551935425090,
-            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425121,
             "changeTime": 1551935425121,
-            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425168,
             "changeTime": 1551935425168,
-            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\customMetadata",
         {
-            "state": "u",
             "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\customMetadata",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1551935425309,
             "changeTime": 1551935425309,
-            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd"
+            "contentHash": "8c4a1bc7d3669586825751418de2b87ab0cc82dd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551937979002,
+            "changeTime": 1551937979002,
+            "contentHash": "aa7903c1d455aef0ce6e57528acdac2692fe7b52",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1551935691125,
+            "changeTime": 1551935691125,
+            "contentHash": "5fb27d9a9c0d95870cd5f196048fb721fcc3f4fd",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552001633633,
+            "changeTime": 1552001633711,
+            "contentHash": "b265f458a7aed8b49a22fb71ab09395bc315bda4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\pubsub",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\pubsub",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1552001633554,
+            "changeTime": 1552001633695,
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 646,
+            "modifiedTime": 1552006334518,
+            "changeTime": 1552006334518,
+            "contentHash": "9d02b88ef1efd7b318b4e3a348fee750d36eeb67"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1485,
+            "modifiedTime": 1552006273285,
+            "changeTime": 1552006273285,
+            "contentHash": "79f76dcfe3c3ae80bbfd5b31f9c1fea182a35f4b"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerList\\customerList.js-meta.xml",
+            "isDirectory": false,
+            "size": 561,
+            "modifiedTime": 1552001016414,
+            "changeTime": 1552001016414,
+            "contentHash": "a86f55890b5ec81cf8bc06411b8a1a7564ce0e1f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.html",
+            "isDirectory": false,
+            "size": 559,
+            "modifiedTime": 1551937898858,
+            "changeTime": 1551937898858,
+            "contentHash": "e3e68fd2bb86fb01950ddc07bb1a69e4b977a45f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1218,
+            "modifiedTime": 1552006307130,
+            "changeTime": 1552006307130,
+            "contentHash": "54fed09cdea5132355064c7c46d3962901a9c1d2"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\customerTile\\customerTile.js-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1551935691114,
+            "changeTime": 1551935691114,
+            "contentHash": "13a8f53473150edb08a6d34e9604709ea6758279",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.html",
+            "isDirectory": false,
+            "size": 1375,
+            "modifiedTime": 1551925310071,
+            "changeTime": 1551925310071,
+            "contentHash": "9098c96fda28ddc2ac5ac48007426de1413b535a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js",
+            "isDirectory": false,
+            "size": 2522,
+            "modifiedTime": 1551925310073,
+            "changeTime": 1551925310073,
+            "contentHash": "fd3da10d77d065d8d561d0126763af29815821b6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\inlineMessage\\inlineMessage.js-meta.xml",
+            "isDirectory": false,
+            "size": 234,
+            "modifiedTime": 1551925310074,
+            "changeTime": 1551925310074,
+            "contentHash": "ec7b5989523c1fe810c5e6fed794a554ca15fe84",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js",
+            "isDirectory": false,
+            "size": 3230,
+            "modifiedTime": 1551925310077,
+            "changeTime": 1551925310077,
+            "contentHash": "dd5fe8df566199947715bc412024c06760f19bab",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+        {
+            "sourcePath": "C:\\Shaambo\\EWSpace\\LighTrainig\\dev\\myeslwc\\force-app\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1551925310078,
+            "changeTime": 1551925310078,
+            "contentHash": "450b992d3c0aa4b60f00ccac0349f18f4c00f2e1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]

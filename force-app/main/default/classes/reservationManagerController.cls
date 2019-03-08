@@ -4,6 +4,8 @@ public with sharing class reservationManagerController
     @auraEnabled(cacheable=true)
     public static List<customerServices.Customer> getCustomerList(String sObjectType)
     {
+        System.debug('########################');
+
         List<customerServices.Customer> customers = new List<customerServices.Customer>();
         
         if(sObjectType == 'Lead')
